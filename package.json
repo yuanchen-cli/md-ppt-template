@@ -1,0 +1,20 @@
+{
+  "name": "md-ppt-template",
+  "version": "1.0.0",
+  "description": "基于 reveal-md 的 ppt 项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanchen-cli/md-ppt-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanchen-cli/md-ppt-template/issues"
+  },
+  "homepage": "https://github.com/yuanchen-cli/md-ppt-template#readme"
+}
